@@ -7,6 +7,7 @@ public class Demo
 		System.out.println("commtting and pushing");
 		System.out.println("Changed by Naveen");
 		System.out.println("pushed");
+		System.out.println("Fetching now");
 		
 		
 	}
